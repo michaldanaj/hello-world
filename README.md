@@ -2,7 +2,7 @@
 
 Jest to moje pierwsze repozytorium na GitHub.
 
-Założylem je, aby wrzucać tutaj różne rzeczy, ja:
+Założylem je, aby wrzucać tutaj różne rzeczy, jak:
 
 * moje pakiety R,
 * moje analizy w R,
